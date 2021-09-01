@@ -1,6 +1,6 @@
-# DevCamper API
+#Bootcamper API
 
-> Backend API for DevCamper application, which is a bootcamp directory website
+> Backend API for BootCamper application, which is a bootcamp directory website
 
 ## Usage
 
@@ -36,5 +36,3 @@ node seeder -i
 
 
 - Version: 1.0.0
-- License: MIT
-- Author: Brad Traversy
